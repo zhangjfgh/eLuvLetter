@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Satisfy';
+    font-family: 华文行楷;
     font-style: normal;
     font-weight: 400;
     src: local('Satisfy Regular'), local('Satisfy-Regular'), url(../font/op.woff2) format('woff2');
@@ -119,7 +119,7 @@ html {
 /* body */
 
 body {
-    font-family: Satisfy, serif;
+    font-family: 华文行楷, Satisfy;
     color: #837362;
     background: #fbf8f7;
     opacity: 0;
