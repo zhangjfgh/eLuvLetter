@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'STXingkai';
+    font-family: "华文行楷", "STXingkai", serif;
     font-style: normal;
     font-weight: 400;
     src: local('Satisfy Regular'), local('Satisfy-Regular'), url(../font/op.woff2) format('woff2');
@@ -91,7 +91,8 @@ video {
     margin: 0;
     padding: 0;
     border: 0;
-    font: inherit;
+    /*font: inherit;*/
+    font-family: "华文行楷", "STXingkai", serif;
     font-size: 100%;
     vertical-align: baseline;
 }
@@ -119,7 +120,7 @@ html {
 /* body */
 
 body {
-    font-family: 'STXingkai', Satisfy;
+    font-family: "华文行楷", "STXingkai", serif;
     color: #837362;
     background: #fbf8f7;
     opacity: 0;
